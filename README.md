@@ -21,19 +21,19 @@ I used two samples to test the algorithm, the first one is an instrument mixture
 
 
 #### mixture plot
-![Figure1](Instruments_Mixed_Signal.png)
+![Figure1](plots/Instruments_Mixed_Signal.png)
 
 
 #### Separated signals plot
-![Figure2](Instruments_Separated_Signals.png)
+![Figure2](plots/Instruments_Separated_Signals.png)
 
 
 ### 2. Sample 2
 
 
 #### mixture plot
-![Figure3](Instruments_Mixed_Signal.png)
+![Figure3](plots/Instruments_Mixed_Signal.png)
 
 
 #### Separated signals plot
-![Figure4](Instruments_Separated_Signals.png)
+![Figure4](plots/Instruments_Separated_Signals.png)
